@@ -1,0 +1,13 @@
+[project]
+name = "analytics-training"
+version = "0.1.0"
+description = "Training materials FRC 1318 analytics"
+readme = "README.md"
+authors = [
+    { name = "Stacy Irwin", email = "stacy.k.irwin@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "jupyterlab>=4.6.5",
+    "jupyterlab-slideshow>=0.3.4",
+]
