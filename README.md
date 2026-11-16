@@ -1,6 +1,5 @@
-# Python 27
-### Python Training Materials
-This repository contains Python training materials for FRC 1318, the
+# Analytics Training
+This repository contains analytics training materials for FRC 1318, the
 *Issaquah Robotics Society*.
 
 # Lessons on Colab
