@@ -12,12 +12,16 @@ competitions.
 ### Python
 * Python lessons are contained in the python folder. Each lesson is contained within
   a numbered subfolder.
-* Some lessons are inten
 
 
 ## Tech Stack
 - uv
 - Python 3.14, installed with uv
+
+## Instructional Style
+Don't bee too wordy or pedantic. If a concept is easy to understand from one or a few
+examples, then keep explanations brief. If a code comment is sufficient to explain,
+then just use the comment.
 
 ## Code Style
 
